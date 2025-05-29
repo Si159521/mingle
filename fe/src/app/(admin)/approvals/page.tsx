@@ -1,1 +1,3 @@
- return <div>배포 성공</div>;
+export default function Page() {
+  return <div>배포 성공</div>;
+}
